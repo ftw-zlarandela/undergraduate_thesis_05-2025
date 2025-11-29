@@ -1,0 +1,53 @@
+{
+  "duration": null,
+  "files": [
+    {
+      "enabled": false,
+      "filespec": "D:\\Users\\Acer\\Desktop\\Thesis_0419\\testing videos\\aspen_0419.mp4"
+    },
+    {
+      "enabled": false,
+      "filespec": "D:\\Users\\Acer\\Desktop\\Thesis_0419\\testing videos\\crowd2_0419.mp4"
+    },
+    {
+      "enabled": false,
+      "filespec": "D:\\Users\\Acer\\Desktop\\Thesis_0419\\testing videos\\ducks_0419.mp4"
+    },
+    {
+      "enabled": false,
+      "filespec": "D:\\Users\\Acer\\Desktop\\Thesis_0419\\testing videos\\life1_0419.mp4"
+    },
+    {
+      "enabled": false,
+      "filespec": "D:\\Users\\Acer\\Desktop\\Thesis_0419\\testing videos\\pedestrian2_0419.mp4"
+    },
+    {
+      "enabled": false,
+      "filespec": "D:\\Users\\Acer\\Desktop\\Thesis_0419\\testing videos\\rush1_0419.mp4"
+    },
+    {
+      "enabled": false,
+      "filespec": "D:\\Users\\Acer\\Desktop\\Thesis_0419\\testing videos\\sintel3_0419.mp4"
+    },
+    {
+      "enabled": true,
+      "filespec": "D:\\Users\\Acer\\Desktop\\Thesis_0419\\testing videos\\sunflower1_0419.mp4"
+    }
+  ],
+  "auto-save-results": true,
+  "auto-save-results-filespec": "D:\\Users\\Acer\\Desktop\\Thesis_0419\\FFMetrics.Results.csv",
+  "log-frames": false,
+  "log-frames-dirspec": "D:\\Users\\Acer\\Desktop\\Thesis_0419",
+  "metrics": [
+    "PSNR",
+    "SSIM"
+  ],
+  "ref-filespec": "D:\\Users\\Acer\\Desktop\\Thesis_0419\\testing videos\\sunflower1.mp4",
+  "save-results-filespec": "",
+  "skip": null,
+  "TempDir": null,
+  "vmaf-model": "vmaf_v0.6.1",
+  "vmaf-phone-model": false,
+  "vmaf-pool": "mean",
+  "vmaf-subsample": 1
+}
